@@ -7,6 +7,7 @@ var salario : Int = 0
  var opcion : Int = 0
 
     do {
+        println("Este ejercicio lo ha hecho Sergio, no Ramón")
         println("¿Que quieres hacer?")
         println("\n")
         println("1.Calcular salario" +
